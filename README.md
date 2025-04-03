@@ -1,1 +1,2 @@
-High Cloud Airlines analysis in tableau
+High Cloud Airlines analysis by using AI 
+tools like Power Bi, Excel, Tableau and SQL
