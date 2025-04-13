@@ -1,2 +1,1 @@
-High Cloud Airlines analysis by using AI 
-tools like Power Bi, Excel, Tableau and SQL.
+Throughout our analysis, we encountered various challenges in handling the data. Data volume : managing and processing large datasets efficiently. Data Quality : Ensuring accuracy and reliability of the data. Complex relationships : Establishing connections between different data points of the data.
